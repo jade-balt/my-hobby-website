@@ -1,0 +1,70 @@
+
+body {
+    background-color: #ccccff;
+    max width: 700 pixels;
+    margin: -left:auto;
+    margin: -right:auto;
+    padding: 7px;
+}
+
+h1 {
+    color: #ff00ff;
+    font-family:"playfair display";
+    text-align: center;
+      border-style: dashed;
+    border-color: #751aff;
+}
+
+p {
+    color: #00001a;
+    font-family: "ariel";
+    font-size: 20px;
+      border-style: double;
+    border-color: #b366ff;
+}
+
+h2 {
+   color: #ff3377;
+   text-align: center;
+   font-family: lobster;
+      border-style: outset;
+   border-color:#3d0099 ;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
